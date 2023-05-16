@@ -1,0 +1,30 @@
+{
+  "name": "nfsm",
+  "version": "0.0.1b",
+  "description": "A simple Node.js module that simulates a state machine, allowing you to define a sequence of states and state transitions with durations.",
+  "main": "Machine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hj91/nfsm.git"
+  },
+  "keywords": [
+    "state-machine",
+    "state",
+    "transition",
+    "simulation",
+    "automation",
+    "control",
+    "FSM",
+    "Finite State Machine"
+  ],
+  "author": "Harshad Joshi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hj91/nfsm/issues"
+  },
+  "homepage": "https://github.com/hj91/nfsm#readme"
+}
+
